@@ -1,0 +1,6 @@
+.main{
+    background-color: beige;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+}

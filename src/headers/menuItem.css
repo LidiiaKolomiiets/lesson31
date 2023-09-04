@@ -1,0 +1,7 @@
+.menu-item{
+    background-color: aqua;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
